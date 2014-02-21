@@ -52,20 +52,3 @@
 
 - What is your least favorite thing about Ruby so far?
   So many ways to do something, it turns into an artform especially when working in groups. it makes it more important to agree style.
-
- Programming Problems (10pts each):
- - Write a passing rspec file called even_number_spec.rb that tests a class called EvenNumber.
-    - The EvenNumber class should:
-       - Only allow even numbers
-       - Get the next even number
-       - Compare even numbers
-       - Generate a range of even numbers
-- Make the rspec tests in wish_list_spec.rb pass by writing a WishList class
-   - The WishList class should:
-      - Mixin Enumerable
-      - Define each so it returns wishes as strings with their index as part of the string
-
-Mid-Term Spec (50pts):
-- Make the tests pass.
-
-
